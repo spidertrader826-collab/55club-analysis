@@ -1,5 +1,3 @@
-# 55club-analysis
-UI based analysis helper for educational purpose only
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -97,5 +95,4 @@ function demo(){
   document.getElementById('vb').style.width=v+'%';
 }
 </script>
-</body>
-</html>
+</body uhOCTYPEht
