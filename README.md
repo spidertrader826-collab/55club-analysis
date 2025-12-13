@@ -95,4 +95,5 @@ function demo(){
   document.getElementById('vb').style.width=v+'%';
 }
 </script>
-</body uhOCTYPEht
+</body>
+</html>
